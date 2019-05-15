@@ -1,0 +1,72 @@
+.global{
+     width: 960px;
+    height: 883px;
+    margin:auto;
+    background-image:url(back.png);
+    background-repeat: no-repeat; 
+} 
+.logo{
+    margin-left: 48px;
+}
+.head{
+    width: 950px;
+    height: 205px;
+}
+.photo{
+    width: 50%;
+    float: left;
+}
+.name{
+    color: white;
+    float: left;
+    padding-top: 150px;
+    padding-left: 310px  
+}
+.Contact{
+    width: 60px;
+    height: 17px;
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: bold;         
+}
+.Nr{
+    width: 70px;
+    height: 12px;
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 8.5px;
+    font-weight: 400;
+}
+.info{
+    width: 95px;
+    height: 9px;
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 9px;
+    font-weight: 400;
+}
+.empty{height:1px;
+width: 950px;}
+
+.country1{
+    
+    
+}
+
+.india{
+    width: 270px;
+    height: 188px;
+    padding-left:;
+    padding-right:;
+    float: left;
+    align-content:center;
+}
+.indiaimg{
+    width: 270px;
+height: 188px;
+}
+.nepal{
+    width:33%;
+    float: left;
+}
